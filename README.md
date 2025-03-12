@@ -53,9 +53,6 @@ curl -O https://raw.githubusercontent.com/EthanSpleefan/ChromePolicyRemover/main
 # - Enable verbose logging
 ```
 
-## 📸 Demo
-
-![Script Execution Demo](https://via.placeholder.com/800x400.png?text=Script+Execution+Preview)
 
 ## ⚠️ Important Notes
 
